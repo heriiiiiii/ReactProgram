@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">     
         <p>
-         Hola, mundo
+         Hola, mundo version 2
         </p>
         <a
           className="App-link"
